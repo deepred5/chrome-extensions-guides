@@ -1,5 +1,7 @@
 # chrome插件小教程
 
+**[在线教学视频](http://www.bilibili.com/video/av6584244/)**
+
 ### 新建一个文件夹,文件下建立images文件夹和js文件夹
 
 images文件夹用来放插件图标
